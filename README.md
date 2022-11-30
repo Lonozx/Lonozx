@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lonozx
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Front-End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
