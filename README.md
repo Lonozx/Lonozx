@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Lonozx
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Front-End
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, im Mykhailo, mostly known by my friend as Lonozx.
+I consider myself as starter in Front-End duty. 
+My current expirience consist of landing pages and JS/React web-apps that I have in my repository list.
 
-<!---
-Lonozx/Lonozx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
